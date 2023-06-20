@@ -65,10 +65,23 @@
         1. Füge ein Script Tag hinzu.
         2. Style dein Dokument ein wenig mit JavaScript um. ".style"
         3. Welche "get" Methode kannst du für die Klasse verwenden?
-
-
         Beispiel: Ändere mit JavaScript die Farbe der Texte oder den Hintergrund, ändere die Schriftgrösse oder ordne die Elemente anders an.
     -->
+
+    <script>
+      function changeRainbowBackground() {
+        var colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'];
+        var body = document.getElementsByTagName("body")[0];
+        var index = 0;
+  
+        setInterval(function() {
+          body.style.backgroundColor = colors[index];
+          index = (index + 1) % colors.length;
+        }, 1000);
+      }
+  
+      changeRainbowBackground(); 
+    </script>
 </body>
 
 </html>
