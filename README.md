@@ -16,7 +16,8 @@ Erstelle ein neues Github Repo und kopiere es auf dein dein Arbeitsgerät. Erkl�
 
 Füge hier deine Anleitung hinzu:
 
-1. https://lucid.app/lucidchart/674b9f91-f39d-46b8-8dde-318c240c6066/edit?viewport_loc=97%2C373%2C2219%2C1051%2C0_0&invitationId=inv_54137b7d-824d-4136-8f3c-986b9e620f73
+![Screenshot](/readme/readmepic.png)
+
 
 ---
 
