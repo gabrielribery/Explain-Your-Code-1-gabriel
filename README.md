@@ -18,6 +18,8 @@ Füge hier deine Anleitung hinzu:
 
 ![Screenshot](/readme/readmepic.png)
 
+repo erstellen: https://youtu.be/XNn_EYImHUk                                            repo in vscode: https://youtu.be/aN8JlbCtGs8
+
 
 ---
 
