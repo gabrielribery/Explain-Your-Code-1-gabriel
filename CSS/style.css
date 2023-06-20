@@ -1,0 +1,18 @@
+#header1 {
+    color: greenyellow;
+    font-size: 50px;
+
+}
+
+#header2 {
+    color:turquoise
+}
+
+#header3 {
+    color: violet;
+}
+
+.text {
+    -webkit-text-stroke-color: blue;
+    color: brown;
+}
